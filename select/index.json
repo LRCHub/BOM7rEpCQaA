@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Christmas Love",
+  "base_artist": "Stray Kids",
+  "createdAt": "2025-12-14T03:41:45.130030Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Christmas Love",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/01_Christmas_Love_Billy_Idol.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Christmas Love",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/02_Christmas_Love_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Christmas Love (Album Version)",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/03_Christmas_Love_(Album_Version)_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Christmas Love Song",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/04_A_Christmas_Love_Song_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Christmas Love Song",
+      "artist": "The Manhattan Transfer",
+      "has_synced": false,
+      "path": "select/05_A_Christmas_Love_Song_The_Manhattan_Transfer.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Christmas Love Song",
+      "artist": "Barbra Streisand",
+      "has_synced": false,
+      "path": "select/06_A_Christmas_Love_Song_Barbra_Streisand.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Christmas Love",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/07_Christmas_Love_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Christmas Love Song, A",
+      "artist": "Manhattan Transfer",
+      "has_synced": false,
+      "path": "select/08_Christmas_Love_Song,_A_Manhattan_Transfer.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Little Bit Of Christmas Love",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/09_A_Little_Bit_Of_Christmas_Love_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Christmas Love",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/10_Christmas_Love_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Christmas Love (Album Version)",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/11_Christmas_Love_(Album_Version)_Justin_Bieber.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Christmas Love",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/pl_01_Christmas_Love_Stray_Kids.txt"
+    }
+  ]
+}
